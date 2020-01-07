@@ -1,0 +1,14 @@
+.config
+.fable
+.ionide
+.paket
+
+bin
+obj
+
+node_modules
+yarn-error.log
+
+paket-files
+
+out
